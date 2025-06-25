@@ -84,4 +84,3 @@ The dataset includes the following columns:
 
 This project is a foundational example to understand linear regression, feature scaling, and model evaluation. The same structure can be extended to more complex models and real-world business cases.
 
----
